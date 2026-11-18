@@ -1,30 +1,28 @@
-# 👩‍💻 Hello, I'm a Developer!
+<h1 align="center">👩‍💻 Hello, I'm Tayo!</h1>
 
-### Welcome to My GitHub Profile 🌸
+<h3 align="center">💜 IT Student | Aspiring Full Stack Developer</h3>
 
-I am an IT Student passionate about programming and technology.
-
-## 💻 About Me
-- 🎓 IT Student
-- 🌐 Interested in Web Development
-- 🐍 Learning Python
-- 🚀 Building my programming skills every day
-
-## 🛠️ My Skills
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
-- Git & GitHub
-
-## 🎯 My Goals
-- Become a Full Stack Developer
-- Build real-world projects
-- Improve my programming skills
-
-## 🌱 Currently Learning
-Git, GitHub and Python.
+<p align="center">
+  <i>Learning, Building and Growing Every Day 🚀</i>
+</p>
 
 ---
-**Thank you for visiting my profile! ❤️**
+
+### 🌸 About Me
+- 🎓 IT Student
+- 💻 Passionate about Programming
+- 🐍 Learning Python
+- 🌐 Interested in Web Development
+- 🚀 Building my future in Technology
+
+### 💜 My Skills
+`HTML` `CSS` `JavaScript` `Python` `SQL` `Git` `GitHub`
+
+### 🎯 My Goals
+- Become a Full Stack Developer
+- Build amazing projects
+- Improve my coding skills
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
